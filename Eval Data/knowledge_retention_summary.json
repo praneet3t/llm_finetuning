@@ -1,0 +1,32 @@
+[
+  {
+    "model": "Qwen3-14B",
+    "HitRate_base_%": 94.5,
+    "HitRate_tuned_%": 83.5,
+    "Retention_%": 88.35978835978835
+  },
+  {
+    "model": "Qwen3-32B",
+    "HitRate_base_%": 81.5,
+    "HitRate_tuned_%": 83.5,
+    "Retention_%": 102.45398773006136
+  },
+  {
+    "model": "Phi-4",
+    "HitRate_base_%": 91.0,
+    "HitRate_tuned_%": 88.5,
+    "Retention_%": 97.25274725274726
+  },
+  {
+    "model": "Llama-3.2-11B-Vision-Instruct",
+    "HitRate_base_%": 87.5,
+    "HitRate_tuned_%": 87.5,
+    "Retention_%": 100.0
+  },
+  {
+    "model": "Llama-3.2-3B-Instruct",
+    "HitRate_base_%": 65.5,
+    "HitRate_tuned_%": 74.5,
+    "Retention_%": 113.74045801526718
+  }
+]

@@ -1,0 +1,969 @@
+[
+  {
+    "input": "Summarize the seasonal variation of chlorophyll concentration in the South China Sea.",
+    "output": "Chlorophyll concentration in the South China Sea typically peaks during spring and autumn due to favorable light and nutrient conditions, and declines in summer and winter due to stratification and reduced nutrient availability."
+  },
+  {
+    "input": "Convert 500 nautical miles into kilometers.",
+    "output": "500 nautical miles is equivalent to 926 kilometers, using the conversion factor 1 nautical mile = 1.852 kilometers."
+  },
+  {
+    "input": "Explain how temperature gradients affect upwelling in coastal waters.",
+    "output": "Temperature gradients, often caused by differential heating, can drive upwelling by causing surface waters to move offshore, allowing colder, nutrient-rich deep waters to rise to the surface."
+  },
+  {
+    "input": "Translate bathymetric data into a 3D seabed map for the Yellow Sea.",
+    "output": "Bathymetric data has been transformed into a 3D seabed model of the Yellow Sea, showcasing underwater ridges, troughs, and continental shelf structures."
+  },
+  {
+    "input": "Calculate the density of seawater at 20°C with a salinity of 35 PSU.",
+    "output": "Using standard oceanographic formulas, seawater at 20°C with 35 PSU has an approximate density of 1025 kg/m³."
+  },
+  {
+    "input": "Assess the impact of illegal fishing activities on the marine food web in the East China Sea.",
+    "output": "Illegal fishing disrupts predator-prey relationships, reduces biodiversity, and weakens ecosystem stability in the East China Sea."
+  },
+  {
+    "input": "Compare the efficiency of multi-stage flash and reverse osmosis desalination methods.",
+    "output": "Reverse osmosis is generally more energy-efficient and scalable compared to multi-stage flash desalination, though the latter handles higher salinity more effectively."
+  },
+  {
+    "input": "Simulate wave propagation during a typhoon using spectral wave models.",
+    "output": "The spectral wave simulation shows increased wave height, frequency shift, and directional spreading under typhoon conditions."
+  },
+  {
+    "input": "Classify underwater acoustic signals detected near a submarine cable.",
+    "output": "The acoustic signals were classified as ship engine noise, sediment slides, and biological activity using a trained marine sound classifier."
+  },
+  {
+    "input": "Visualize monthly sea surface temperature anomalies in the East China Sea for 2022.",
+    "output": "The visualization highlights warmer-than-average SSTs in July and cooler anomalies in November 2022 across the East China Sea."
+  },
+  {
+    "input": "Calculate the average salinity gradient between surface and 100m depth.",
+    "output": "The average salinity gradient between surface and 100m depth is approximately 0.15 PSU per 10 meters in the sampled region."
+  },
+  {
+    "input": "Summarize the ecological impact of microplastic presence in benthic zones.",
+    "output": "Microplastics in benthic zones interfere with sediment integrity and food ingestion patterns, negatively affecting benthic organisms and trophic transfer."
+  },
+  {
+    "input": "Describe how tidal currents influence sediment deposition in estuaries.",
+    "output": "Tidal currents transport and redistribute sediment, with stronger ebb and flow phases influencing patterns of erosion and deposition in estuarine environments."
+  },
+  {
+    "input": "Evaluate the reliability of satellite-based chlorophyll measurements.",
+    "output": "Satellite-based chlorophyll measurements are generally reliable but can be affected by cloud cover, surface reflectance, and require in-situ validation."
+  },
+  {
+    "input": "Explain how ENSO events affect the nutrient upwelling in the western Pacific.",
+    "output": "El Niño events suppress nutrient upwelling by weakening trade winds, while La Niña enhances upwelling through intensified wind-driven circulation."
+  },
+  {
+    "input": "Convert wave height from meters to significant wave height index.",
+    "output": "Significant wave height is typically calculated as the average height of the highest one-third of waves; a 3-meter average height would correspond to a significant wave height of about 3.6 meters."
+  },
+  {
+    "input": "Identify likely coral bleaching events based on sea surface temperature data.",
+    "output": "Regions with persistent SST anomalies above 1°C over the monthly mean are flagged as high risk for coral bleaching."
+  },
+  {
+    "input": "Explain the role of satellite altimetry in mapping ocean currents.",
+    "output": "Satellite altimetry measures sea surface height, which helps infer geostrophic currents and monitor large-scale circulation patterns."
+  },
+  {
+    "input": "Translate pH sensor voltage output to real-time ocean acidity levels.",
+    "output": "The sensor voltage is converted to pH using calibration curves; a 2.75V reading corresponds to a pH of 8.1, indicating slightly alkaline seawater."
+  },
+  {
+    "input": "Determine the impact of seasonal monsoon winds on sea surface salinity.",
+    "output": "Seasonal monsoons alter precipitation and runoff, reducing surface salinity in summer due to freshwater influx and increasing it during dry winter periods."
+  },
+  {
+    "input": "Assess the carbon sequestration capacity of a kelp forest.",
+    "output": "Kelp forests can sequester around 2-10 metric tonnes of CO₂ per hectare annually, depending on growth conditions and biomass turnover."
+  },
+  {
+    "input": "Estimate the volume of water displaced by a 5-meter tide over a 100km² area.",
+    "output": "A 5-meter tide over a 100 km² area displaces approximately 500 million cubic meters of water."
+  },
+  {
+    "input": "Summarize changes in turbidity in the Yangtze River estuary post-dam construction.",
+    "output": "Turbidity in the estuary has declined due to sediment retention upstream, altering nutrient transport and estuarine ecology."
+  },
+  {
+    "input": "List factors influencing the vertical mixing of ocean layers.",
+    "output": "Key factors include wind stress, surface cooling, salinity gradients, and internal waves."
+  },
+  {
+    "input": "Convert dissolved oxygen concentration from mg/L to mol/m³.",
+    "output": "A dissolved oxygen concentration of 8 mg/L corresponds to approximately 0.25 mol/m³ (based on O₂ molar mass = 32 g/mol)."
+  },
+  {
+    "input": "Interpret the chlorophyll-a concentration trend from a time-series plot.",
+    "output": "The trend shows a seasonal peak in April and a decline through summer, indicating typical spring bloom dynamics."
+  },
+  {
+    "input": "Simulate oil spill drift using wind and current data.",
+    "output": "The simulated oil spill drifts southeastward over 48 hours under prevailing wind and surface current conditions."
+  },
+  {
+    "input": "Describe how nutrient loading affects eutrophication risk in coastal lagoons.",
+    "output": "Increased nutrient input leads to algal blooms, reduced oxygen levels, and potential fish kills, characteristic of eutrophication."
+  },
+  {
+    "input": "Evaluate the accuracy of sea level rise projections using tide gauge data.",
+    "output": "Comparing tide gauge records to model projections shows a close match within 5 cm deviation over the past two decades."
+  },
+  {
+    "input": "Detect mesoscale eddies using sea surface height anomaly data.",
+    "output": "Closed-loop SSH anomalies indicate the presence of cyclonic and anticyclonic eddies in the Kuroshio extension region."
+  },
+  {
+    "input": "Transform Lagrangian drifter data into Eulerian current fields.",
+    "output": "Lagrangian trajectories were interpolated spatially to create gridded Eulerian current velocity fields."
+  },
+  {
+    "input": "Estimate wave energy flux from significant wave height and period.",
+    "output": "Wave energy flux is estimated using the formula P = 0.49 H² T (kW/m); for H = 2 m and T = 8 s, P ≈ 15.7 kW/m."
+  },
+  {
+    "input": "Summarize changes in dissolved oxygen concentration during a bloom event.",
+    "output": "DO concentrations rise initially due to photosynthesis but decline sharply post-bloom due to decomposition and oxygen consumption."
+  },
+  {
+    "input": "Convert nitrate concentration from µmol/L to mg/L.",
+    "output": "A nitrate concentration of 100 µmol/L is equivalent to 6.2 mg/L (molecular weight of NO₃⁻ = 62 g/mol)."
+  },
+  {
+    "input": "Describe the significance of upwelling zones for fish productivity.",
+    "output": "Upwelling zones bring nutrient-rich waters to the surface, enhancing phytoplankton growth and supporting higher trophic levels including fish."
+  },
+  {
+    "input": "Compare SST anomalies before and after El Niño years.",
+    "output": "Post-El Niño years often show cooler SST anomalies due to re-equilibration and negative feedback in ocean-atmosphere coupling."
+  },
+  {
+    "input": "Detect thermocline depth changes using temperature profiles.",
+    "output": "The thermocline depth is identified where the temperature gradient exceeds 0.5°C/m; it deepens from 30m to 50m during summer."
+  },
+  {
+    "input": "Summarize the role of oceanic fronts in nutrient transport.",
+    "output": "Oceanic fronts act as dynamic boundaries where nutrient-rich waters converge, fueling localized primary production."
+  },
+  {
+    "input": "Transform wave spectral data into a directional wave rose diagram.",
+    "output": "Wave spectral data was processed to generate a rose diagram illustrating dominant wave directions and energy distribution."
+  },
+  {
+    "input": "Describe how coastal erosion is monitored using remote sensing.",
+    "output": "Coastal erosion is monitored by analyzing shoreline changes over time using satellite imagery and digital elevation models."
+  },
+  {
+    "input": "Quantify the CO₂ flux across the air-sea interface using SST and wind speed data.",
+    "output": "Using the bulk formula, the air-sea CO₂ flux is estimated at 2.3 mmol/m²/day under moderate wind and 25°C SST."
+  },
+  {
+    "input": "Explain how Argo float data supports ocean climate monitoring.",
+    "output": "Argo floats provide vertical profiles of temperature and salinity, contributing to global assessments of ocean heat content and circulation."
+  },
+  {
+    "input": "Convert ocean current velocity from cm/s to m/s.",
+    "output": "An ocean current velocity of 35 cm/s is equivalent to 0.35 m/s."
+  },
+  {
+    "input": "Identify coastal hypoxia zones using dissolved oxygen profiles.",
+    "output": "Hypoxia zones are identified where DO levels drop below 2 mg/L, typically in bottom layers of stratified estuaries."
+  },
+  {
+    "input": "Analyze the trajectory of a drifting buoy during a monsoon event.",
+    "output": "The buoy drifted southwestward with a curved trajectory due to strong easterly monsoon winds and surface current interactions."
+  },
+  {
+    "input": "Estimate the heat content anomaly in the upper 200 meters of the ocean.",
+    "output": "Heat content anomaly is calculated as 3.2 × 10⁸ J/m² based on integrated temperature differences over 200 meters."
+  },
+  {
+    "input": "Visualize wind stress curl over the South China Sea during May.",
+    "output": "The plot reveals alternating positive and negative wind stress curl patterns, indicating areas of divergence and convergence."
+  },
+  {
+    "input": "Summarize the relationship between turbidity and primary productivity.",
+    "output": "Moderate turbidity enhances productivity by mixing nutrients, but excessive turbidity limits light penetration and reduces photosynthesis."
+  },
+
+  {
+    "input": "Transform ocean salinity data into a contour plot for the East China Sea.",
+    "output": "Ocean salinity data was interpolated and visualized as a contour plot, highlighting spatial variations in salinity across the East China Sea."
+  },
+  {
+    "input": "Estimate the biomass of phytoplankton based on satellite chlorophyll data.",
+    "output": "Using a standard chlorophyll-to-carbon conversion, the phytoplankton biomass was estimated at 80 mg C/m³ in bloom regions."
+  },
+  {
+    "input": "Convert ocean pressure data from decibars to Pascals.",
+    "output": "1 decibar is equal to 10,000 Pascals, so 500 dbar corresponds to 5,000,000 Pascals."
+  },
+  {
+    "input": "Summarize the seasonal variability of mixed layer depth in the Yellow Sea.",
+    "output": "The mixed layer is shallowest in summer (~10 m) and deepest in winter (~50 m), driven by surface heating and wind mixing."
+  },
+  {
+    "input": "Analyze the effect of sediment plumes from rivers on nearshore turbidity.",
+    "output": "Sediment plumes increase turbidity significantly near river mouths, reducing light penetration and impacting benthic ecosystems."
+  },
+  {
+    "input": "Detect frontal zones using satellite SST gradients.",
+    "output": "Sharp spatial SST changes were detected using gradient thresholding, indicating the presence of oceanic frontal zones."
+  },
+  {
+    "input": "Estimate Ekman transport from wind stress data.",
+    "output": "Based on wind stress vectors, Ekman transport was calculated to be 0.07 m²/s directed 90° to the right of the wind in the Northern Hemisphere."
+  },
+  {
+    "input": "Calculate the time taken for a surface drifter to travel 100 km at 0.5 m/s.",
+    "output": "At 0.5 m/s, it takes approximately 55.6 hours (100,000 m ÷ 0.5 m/s) for the drifter to travel 100 km."
+  },
+  {
+    "input": "Describe the impact of ocean acidification on coral reef ecosystems.",
+    "output": "Ocean acidification reduces carbonate ion concentration, hindering coral calcification and weakening reef structures."
+  },
+  {
+    "input": "Visualize the distribution of sea surface salinity during the monsoon season.",
+    "output": "A salinity map was created, showing freshening near estuaries and increased salinity offshore during monsoon runoff."
+  },
+  {
+    "input": "Identify thermohaline fronts in vertical temperature-salinity plots.",
+    "output": "Thermohaline fronts are seen where isotherms and isohalines sharply intersect, indicating water mass boundaries."
+  },
+  {
+    "input": "Estimate net primary production using chlorophyll and light data.",
+    "output": "Based on chlorophyll concentration and photosynthetically active radiation, net primary production was estimated at 0.9 gC/m²/day."
+  },
+  {
+    "input": "Convert wind speed from knots to meters per second.",
+    "output": "1 knot equals 0.514 m/s, so 20 knots = 10.28 m/s."
+  },
+  {
+    "input": "Explain the process of internal wave generation at shelf breaks.",
+    "output": "Internal waves form at density interfaces where tidal flow over bathymetric slopes causes vertical displacement of water layers."
+  },
+  {
+    "input": "Evaluate the effect of river discharge on stratification.",
+    "output": "River discharge increases surface freshwater input, enhancing vertical stratification by reducing surface water density."
+  },
+  {
+    "input": "Analyze SST trends in the East China Sea over the last decade.",
+    "output": "A warming trend of ~0.15°C per year was observed, linked to regional climate variability and global warming."
+  },
+  {
+    "input": "Translate oxygen saturation data into percent saturation values.",
+    "output": "Measured DO of 6.2 mg/L compared to 7.5 mg/L saturation yields 82.7% saturation."
+  },
+  {
+    "input": "Estimate the residence time of water in a semi-enclosed bay.",
+    "output": "Given a volume of 1.2 × 10⁹ m³ and inflow rate of 4 × 10⁶ m³/day, the residence time is ~300 days."
+  },
+  {
+    "input": "Create a seasonal climatology of significant wave height.",
+    "output": "The climatology shows highest wave heights in winter due to monsoon winds, and lowest during calm summer months."
+  },
+  {
+    "input": "Convert radiance data to sea surface temperature using calibration constants.",
+    "output": "Applying Planck’s equation with calibration coefficients yielded a sea surface temperature of 26.3°C from radiance data."
+  },
+  {
+    "input": "Summarize the impact of typhoon-induced mixing on surface chlorophyll.",
+    "output": "Typhoon-induced mixing brings nutrients to the surface, temporarily increasing chlorophyll concentrations by up to 50%."
+  },
+  {
+    "input": "Visualize eddy kinetic energy from surface current vectors.",
+    "output": "Eddy kinetic energy was computed and plotted, revealing high-energy regions near western boundary currents."
+  },
+  {
+    "input": "Explain how deep convection events affect heat distribution in the ocean.",
+    "output": "Deep convection redistributes surface heat to deeper layers, regulating ocean temperature and contributing to thermohaline circulation."
+  },
+  {
+    "input": "Estimate the fetch length for wave development during a storm event.",
+    "output": "Based on wind direction and open water distance, the fetch was estimated at 120 km."
+  },
+  {
+    "input": "Calculate sea level anomaly from satellite altimetry data.",
+    "output": "Subtracting the mean sea surface height yields a sea level anomaly of +14 cm in the Kuroshio region."
+  },
+  {
+    "input": "Assess the light attenuation coefficient from PAR profiles.",
+    "output": "From the exponential decay of PAR, the attenuation coefficient (Kd) was determined to be 0.18 m⁻¹."
+  },
+  {
+    "input": "Interpret dissolved oxygen vertical profiles in stratified waters.",
+    "output": "Profiles show high oxygen at the surface, with sharp decreases below the pycnocline, indicating stratification and limited mixing."
+  },
+  {
+    "input": "Convert acoustic backscatter intensity to biomass estimates.",
+    "output": "Using a calibrated regression, the backscatter intensity of -60 dB corresponded to a biomass density of 0.3 g/m³."
+  },
+  {
+    "input": "Describe the formation and movement of coastal Kelvin waves.",
+    "output": "Kelvin waves form along coasts or equators under geostrophic balance, propagating poleward in the Northern Hemisphere."
+  },
+  {
+    "input": "Translate sea ice concentration data into area coverage.",
+    "output": "A 75% ice concentration over a 400 km² region corresponds to 300 km² of ice-covered surface."
+  },
+  {
+    "input": "Summarize trends in pH across global ocean basins over the past 20 years.",
+    "output": "All major ocean basins show a declining pH trend of ~0.02 units per decade, indicating progressive acidification."
+  },
+  {
+    "input": "Estimate baroclinic Rossby radius of deformation for a given stratification profile.",
+    "output": "Using the first baroclinic mode, the Rossby radius was estimated at 25 km for the East China Sea."
+  },
+  {
+    "input": "Assess the frequency of harmful algal bloom events in coastal China.",
+    "output": "Over the past 10 years, harmful algal blooms have occurred 3–5 times annually, with peak frequency in summer months."
+  },
+  {
+    "input": "Convert the wave period from seconds to frequency in Hertz.",
+    "output": "Wave period of 10 seconds corresponds to a frequency of 0.1 Hz."
+  },
+  {
+    "input": "Explain the use of HF radar in measuring coastal surface currents.",
+    "output": "HF radar uses Doppler shifts of radio waves reflected from the ocean surface to estimate real-time surface current vectors."
+  },
+  {
+    "input": "Determine the chlorophyll-a bloom threshold for the East China Sea.",
+    "output": "A chlorophyll-a concentration exceeding 3 mg/m³ is typically used to define bloom conditions in the East China Sea."
+  },
+  {
+    "input": "Evaluate wave-current interaction effects near estuary outflows.",
+    "output": "Wave-current interaction enhances wave steepness and may cause wave breaking near opposing estuarine outflows."
+  },
+  {
+    "input": "Summarize the role of Langmuir circulation in upper ocean mixing.",
+    "output": "Langmuir circulation organizes surface water into parallel wind-aligned streaks, enhancing vertical mixing and material transport."
+  },
+  {
+    "input": "Convert geostrophic balance equations into surface current estimates.",
+    "output": "Using sea surface height gradients and Coriolis parameter, geostrophic currents of 0.25 m/s were estimated westward."
+  },
+  {
+    "input": "Visualize temperature-salinity diagrams and identify water masses.",
+    "output": "T-S diagrams reveal three distinct water masses with different density signatures in the sampled region."
+  },
+  {
+    "input": "Estimate sound speed in seawater from temperature, salinity, and depth.",
+    "output": "Using Chen-Millero equation, sound speed was estimated at 1502 m/s at 10°C, 35 PSU, and 50 m depth."
+  },
+  {
+    "input": "Summarize sediment transport direction based on bottom current data.",
+    "output": "Bottom currents indicate net sediment transport towards the northeast, aligning with modeled deposition zones."
+  },
+  {
+    "input": "Convert raw ADCP velocity data into a vertical shear profile.",
+    "output": "Vertical velocity differences were computed from ADCP bins, yielding a shear profile indicative of internal wave activity."
+  },
+  {
+    "input": "Describe the ecological consequences of hypoxic bottom waters.",
+    "output": "Hypoxic zones lead to mortality or migration of benthic fauna, altering food webs and reducing ecosystem resilience."
+  },
+  {
+    "input": "Estimate the total phytoplankton carbon from satellite-derived chlorophyll.",
+    "output": "Using a C:Chl ratio of 50, the estimated carbon biomass is 500 mg C/m³ for a chlorophyll concentration of 10 mg/m³."
+  },
+  {
+    "input": "Explain how sea surface salinity anomalies indicate river plume dispersion.",
+    "output": "Freshwater input lowers salinity near river mouths; spatial anomalies help track plume extent and transport direction."
+  },
+  {
+    "input": "Evaluate the impact of submarine cable installation on seabed morphology.",
+    "output": "Cable trenching disturbs seabed sediment, creating localized mounds and furrows, altering benthic habitats."
+  },
+  {
+    "input": "Identify anomalies in current profiles caused by mesoscale eddies.",
+    "output": "Velocity reversals and vertical tilting of current vectors suggest the passage of a mesoscale cyclonic eddy."
+  },
+
+  {
+    "input": "Convert ocean wave energy into equivalent power output in megawatts for a coastal turbine system.",
+    "output": "Given wave energy flux of 25 kW/m over 200 m of coastline, total power output is 5 MW."
+  },
+  {
+    "input": "Describe how submarine groundwater discharge affects nutrient levels in coastal waters.",
+    "output": "Submarine groundwater discharge delivers dissolved nutrients like nitrate and phosphate, enhancing coastal productivity and sometimes causing eutrophication."
+  },
+  {
+    "input": "Estimate the drift speed of oil slicks using wind speed and direction.",
+    "output": "Oil slick drift speed is typically 3% of wind speed; with 15 m/s wind, drift speed is approximately 0.45 m/s."
+  },
+  {
+    "input": "Summarize the influence of El Niño events on South China Sea precipitation patterns.",
+    "output": "El Niño reduces monsoon strength, leading to decreased summer precipitation and drier conditions in the South China Sea region."
+  },
+  {
+    "input": "Generate a histogram of sea surface height anomalies from satellite altimetry data.",
+    "output": "The histogram shows a Gaussian-like distribution centered near zero, with slight positive skew due to seasonal warming."
+  },
+  {
+    "input": "Convert turbidity values in NTU to suspended sediment concentration.",
+    "output": "Using a calibration factor of 1.5 mg/L per NTU, a turbidity of 40 NTU corresponds to 60 mg/L suspended sediments."
+  },
+  {
+    "input": "Analyze the effects of coastal upwelling on fisheries productivity.",
+    "output": "Upwelling brings nutrients to surface waters, boosting phytoplankton and zooplankton, thereby supporting productive fisheries."
+  },
+  {
+    "input": "Explain the impact of oceanic mesoscale eddies on vertical nutrient transport.",
+    "output": "Cyclonic eddies induce upwelling of nutrients into the euphotic zone, enhancing surface productivity."
+  },
+  {
+    "input": "Translate LIDAR sea level measurements into tidal elevation profiles.",
+    "output": "LIDAR data was aligned with geodetic references and tidal benchmarks to construct a continuous tidal elevation curve."
+  },
+  {
+    "input": "Estimate the evaporation rate from sea surface given SST and wind data.",
+    "output": "Using bulk formulas, SST of 28°C and 10 m/s wind yield an estimated evaporation rate of 6 mm/day."
+  },
+  {
+    "input": "Visualize the seasonal distribution of dissolved inorganic nitrogen in estuaries.",
+    "output": "Concentration maps reveal peak nitrogen levels in spring, correlating with upstream agricultural runoff."
+  },
+  {
+    "input": "Convert current measurements from Eulerian to Lagrangian frames.",
+    "output": "Eulerian current velocities were integrated over time to simulate particle trajectories in the Lagrangian framework."
+  },
+  {
+    "input": "Summarize observed seasonal sea level changes due to thermal expansion.",
+    "output": "Thermal expansion raises sea levels by several centimeters in summer, especially in semi-enclosed seas like the East China Sea."
+  },
+  {
+    "input": "Estimate phytoplankton growth rates using chlorophyll time-series data.",
+    "output": "Logarithmic increase in chlorophyll from 2 to 4 mg/m³ over 3 days gives a growth rate of 0.23 day⁻¹."
+  },
+  {
+    "input": "Interpret satellite ocean color data for coastal sediment resuspension detection.",
+    "output": "Increased backscatter and reflectance in red/NIR bands indicate resuspended sediments following storm events."
+  },
+  {
+    "input": "Convert degrees east to compass direction.",
+    "output": "45°E corresponds to northeast (NE); 180°E corresponds to due south (S)."
+  },
+  {
+    "input": "Describe the influence of offshore wind farms on local wave patterns.",
+    "output": "Turbine structures cause localized wave damping and refraction, reducing wave energy in their lee."
+  },
+  {
+    "input": "Evaluate vertical heat flux based on temperature gradients and eddy diffusivity.",
+    "output": "With a 0.02°C/m gradient and diffusivity of 10⁻⁴ m²/s, the vertical heat flux is 0.002 W/m²."
+  },
+  {
+    "input": "Identify zones of high nitrate concentrations in the Kuroshio extension.",
+    "output": "High nitrate zones align with upwelling along the Kuroshio front, evident in nutrient contour maps."
+  },
+  {
+    "input": "Simulate tsunami wave propagation from a submarine earthquake.",
+    "output": "Numerical simulation predicts wave heights up to 2.5 meters reaching the nearest coast within 40 minutes."
+  },
+  {
+    "input": "Convert the measured conductivity of seawater to salinity.",
+    "output": "A conductivity of 4.5 S/m corresponds to a salinity of approximately 35 PSU, based on UNESCO algorithms."
+  },
+  {
+    "input": "Summarize the role of mangroves in coastal carbon sequestration.",
+    "output": "Mangroves store carbon in biomass and sediments, sequestering 100–300 g C/m²/year and mitigating atmospheric CO₂."
+  },
+  {
+    "input": "Estimate geostrophic current velocity from pressure gradients.",
+    "output": "Using hydrostatic balance and Coriolis force, pressure gradients yielded geostrophic velocities of 0.2 m/s."
+  },
+  {
+    "input": "Visualize the bathymetric profile along a ship transect route.",
+    "output": "The profile reveals a gradual slope from continental shelf to slope, with a trench at 800 m depth mid-route."
+  },
+  {
+    "input": "Convert ADCP Doppler shift readings to water velocity in m/s.",
+    "output": "A Doppler shift of 200 Hz corresponds to a water velocity of 0.45 m/s, considering instrument frequency and beam angle."
+  },
+  {
+    "input": "Summarize the seasonal variation in ocean stratification in temperate regions.",
+    "output": "Stratification intensifies in summer due to surface warming and collapses in winter as surface cooling and wind mixing increase."
+  },
+  {
+    "input": "Calculate freshwater flux from precipitation and evaporation data.",
+    "output": "With precipitation at 4 mm/day and evaporation at 6 mm/day, net freshwater flux is -2 mm/day (net loss)."
+  },
+  {
+    "input": "Analyze pCO₂ data for detection of ocean acidification hotspots.",
+    "output": "Elevated pCO₂ levels in upwelling zones and near industrial discharge areas suggest acidification hotspots."
+  },
+  {
+    "input": "Convert raw salinity data into conservative temperature and absolute salinity.",
+    "output": "Using TEOS-10 equations, raw salinity of 34 PSU and 15°C yields absolute salinity of 34.1 g/kg and conservative temperature of 14.8°C."
+  },
+  {
+    "input": "Explain the influence of seamounts on local ocean circulation.",
+    "output": "Seamounts disturb flow, generating Taylor columns, internal waves, and enhanced vertical mixing around the summit."
+  },
+  {
+    "input": "Estimate light availability at 20 m depth given surface PAR and Kd.",
+    "output": "With Kd = 0.1 m⁻¹ and surface PAR of 2000 µmol/m²/s, light at 20 m is ~270 µmol/m²/s (via Beer’s law)."
+  },
+  {
+    "input": "Assess the storm surge height during a Category 3 typhoon using pressure deficit.",
+    "output": "A 50 hPa pressure drop and strong onshore winds contributed to a storm surge of 2.1 meters."
+  },
+  {
+    "input": "Visualize seasonal variation in sea surface roughness using scatterometer data.",
+    "output": "Scatterometer analysis shows increased surface roughness in winter due to higher wind speeds."
+  },
+  {
+    "input": "Convert global radiation measurements into net shortwave heat flux into the ocean.",
+    "output": "With 75% albedo-adjusted absorption of 250 W/m², net shortwave heat flux is 187.5 W/m²."
+  },
+  {
+    "input": "Summarize how estuarine salinity is influenced by tidal mixing.",
+    "output": "Strong tidal mixing reduces salinity stratification, promoting a well-mixed estuary, especially during spring tides."
+  },
+  {
+    "input": "Estimate chlorophyll-a concentration from ocean color band ratios.",
+    "output": "Using band ratio algorithms (e.g., OC4), blue/green reflectance ratio yielded a chlorophyll concentration of 2.8 mg/m³."
+  },
+  {
+    "input": "Analyze the thermohaline structure across a zonal section in the western Pacific.",
+    "output": "Profiles reveal warm, saline surface water overlaying cooler, fresher intermediate water, transitioning to dense deep layers."
+  },
+  {
+    "input": "Convert ocean current direction from true north to magnetic bearing.",
+    "output": "With a local magnetic declination of 5°W, a current direction of 100° true corresponds to 95° magnetic."
+  },
+  {
+    "input": "Explain the significance of upwelling indices in fisheries forecasting.",
+    "output": "Upwelling indices reflect nutrient availability and plankton abundance, crucial for forecasting fish catch potential."
+  },
+  {
+    "input": "Estimate the wave celerity in shallow water from depth.",
+    "output": "For a depth of 10 m, wave speed (celerity) is √(g·h) = 9.9 m/s using shallow water approximation."
+  },
+  {
+    "input": "Interpret wind stress patterns during a monsoon transition period.",
+    "output": "Wind vectors show reversal from southwest to northeast, with associated curl indicating monsoon transition dynamics."
+  },
+  {
+    "input": "Calculate Brunt-Väisälä frequency for vertical stability analysis.",
+    "output": "Using density gradient of 0.2 kg/m⁴ and g = 9.81, the Brunt-Väisälä frequency N ≈ 0.011 rad/s."
+  },
+  {
+    "input": "Summarize potential ecological impacts of artificial reefs in coastal ecosystems.",
+    "output": "Artificial reefs enhance habitat complexity, attract diverse species, but may alter predator-prey dynamics and sedimentation."
+  },
+  {
+    "input": "Convert barometric pressure from hPa to mmHg.",
+    "output": "Standard pressure of 1013.25 hPa equals 760 mmHg (1 hPa ≈ 0.7501 mmHg)."
+  },
+  {
+    "input": "Explain the formation of fog over cold coastal currents.",
+    "output": "Warm moist air over colder water condenses to form advection fog, common along cold coastal currents like the California Current."
+  },
+  {
+    "input": "Estimate the impact of glacial melt on fjord salinity profiles.",
+    "output": "Glacial melt reduces surface salinity sharply, creating a low-salinity lens that stabilizes stratification in the upper 10 m."
+  },
+  {
+    "input": "Assess the importance of seagrass meadows in nutrient cycling.",
+    "output": "Seagrass traps organic matter and facilitates denitrification, playing a vital role in nutrient cycling and water clarity."
+  },
+  {
+    "input": "Visualize storm trajectory and associated wave heights using forecast data.",
+    "output": "Forecast maps show the storm’s eastward track with maximum predicted waves of 4.5 meters in its right-front quadrant."
+  },
+  {
+    "input": "Calculate total heat stored in the upper 50 m of ocean given temperature data.",
+    "output": "With temperature 20°C and density 1025 kg/m³, the heat content is ~4.3 × 10⁹ J/m²."
+  },
+
+  {
+    "input": "Analyze the primary causes of marine pollution in the East China Sea.",
+    "output": "The main sources of marine pollution in the East China Sea include industrial wastewater, agricultural runoff, shipping emissions, and untreated domestic sewage from coastal cities."
+  },
+  {
+    "input": "What measures can be taken to improve the ecological restoration of damaged coral reefs?",
+    "output": "Measures include artificial reef construction, coral transplantation, reduction of coastal pollution, and strict control of fishing activities in reef areas."
+  },
+  {
+    "input": "Evaluate the impact of offshore wind farms on the marine environment in the East China Sea.",
+    "output": "Offshore wind farms may alter local hydrodynamics and soundscapes, potentially affecting marine life. However, they also create artificial habitats and reduce fishing pressure due to restricted zones."
+  },
+  {
+    "input": "Analyze the current status of red tide monitoring in the coastal waters of China.",
+    "output": "Red tide monitoring in China involves satellite remote sensing, in-situ observations, and early warning systems. However, challenges remain in forecasting accuracy and spatial coverage."
+  },
+  {
+    "input": "What are the main challenges in implementing marine protected areas in the East China Sea?",
+    "output": "Challenges include unclear jurisdiction, insufficient enforcement, conflicting interests between conservation and development, and lack of funding for long-term monitoring."
+  },
+  {
+    "input": "Analyze the ecological function of wetlands in the coastal region of the East China Sea.",
+    "output": "Wetlands filter pollutants, buffer storm surges, support biodiversity, and serve as nurseries for many marine species."
+  },
+  {
+    "input": "Evaluate the effectiveness of current policies on plastic waste reduction in the marine environment.",
+    "output": "Current policies have led to localized improvements, but enforcement gaps and lack of alternatives to single-use plastics hinder overall effectiveness."
+  },
+  {
+    "input": "Analyze the main factors contributing to biodiversity loss in the East China Sea.",
+    "output": "Overfishing, habitat degradation, pollution, invasive species, and climate change are key contributors to biodiversity loss."
+  },
+  {
+    "input": "Can artificial islands be developed sustainably in ecologically sensitive marine areas?",
+    "output": "Sustainable development of artificial islands requires environmental impact assessments, ecosystem-based planning, and mitigation of sediment disturbance."
+  },
+  {
+    "input": "What are the potential risks of undersea pipeline leakage in coastal areas?",
+    "output": "Risks include contamination of marine ecosystems, disruption to fisheries, and damage to seafloor habitats. Long-term monitoring is crucial to detect early signs of leakage."
+  },
+  {
+    "input": "How does marine spatial planning benefit regional development?",
+    "output": "Marine spatial planning promotes coordinated use of marine resources, reduces user conflict, and supports sustainable economic and ecological goals."
+  },
+  {
+    "input": "Analyze the role of the Zhoushan Archipelago in the marine economy of China.",
+    "output": "Zhoushan serves as a major hub for fisheries, port logistics, and marine tourism. It also plays a key role in promoting regional blue economy development."
+  },
+  {
+    "input": "Assess the potential of aquaculture development in the East China Sea region.",
+    "output": "The region has favorable conditions for aquaculture, but concerns remain regarding water pollution, disease control, and ecosystem carrying capacity."
+  },
+  {
+    "input": "What strategies can be used to improve early warning systems for marine disasters?",
+    "output": "Strategies include integrating satellite and in-situ data, enhancing inter-agency communication, and developing real-time ocean observation networks."
+  },
+  {
+    "input": "Evaluate the current status of sustainable fisheries management in China.",
+    "output": "China has implemented fishing bans, licensing systems, and catch limits, but illegal fishing and data gaps still challenge sustainable management."
+  },
+  {
+    "input": "What are the ecological consequences of coastal reclamation in the East China Sea?",
+    "output": "Coastal reclamation leads to loss of wetlands, disruption of tidal flows, and degradation of habitats critical to birds and marine life."
+  },
+  {
+    "input": "Analyze the impact of climate change on sea level rise in the East China Sea region.",
+    "output": "Thermal expansion and glacial melt are causing measurable sea level rise, increasing the risk of coastal flooding and saltwater intrusion."
+  },
+  {
+    "input": "What role do mangroves play in protecting coastal areas in typhoon-prone regions?",
+    "output": "Mangroves dissipate wave energy, reduce coastal erosion, and provide a natural barrier against storm surges during typhoons."
+  },
+  {
+    "input": "Assess the importance of the Diaoyu Islands for regional marine biodiversity.",
+    "output": "The Diaoyu Islands host rich coral reefs and serve as spawning grounds for numerous marine species, making them ecologically significant."
+  },
+  {
+    "input": "Evaluate the challenges in protecting deep-sea ecosystems within China’s EEZ.",
+    "output": "Challenges include limited scientific understanding, high costs of monitoring, and potential threats from mining and deep-sea fishing."
+  },
+  {
+    "input": "What is the current state of marine ecological compensation systems in China?",
+    "output": "Marine ecological compensation mechanisms are still in early stages, with pilot projects in select regions but lacking unified national guidelines."
+  },
+  {
+    "input": "What are the legal considerations for managing cross-border marine pollution in the East China Sea?",
+    "output": "Key considerations include international treaties, regional agreements, and mechanisms for data sharing and joint response."
+  },
+  {
+    "input": "Can eco-tourism be integrated with marine conservation in the East China Sea?",
+    "output": "Yes, with proper zoning, capacity limits, and local community involvement, eco-tourism can support both conservation and livelihoods."
+  },
+  {
+    "input": "What are the long-term trends in ocean temperature in the Yellow Sea?",
+    "output": "Data indicates a steady warming trend of approximately 0.2°C per decade, affecting fish migration and nutrient cycling."
+  },
+  {
+    "input": "Analyze how overfishing affects trophic structures in coastal marine ecosystems.",
+    "output": "Overfishing removes top predators, causing trophic cascades and shifts in species composition toward smaller, opportunistic organisms."
+  },
+  {
+    "input": "How does the construction of coastal infrastructure affect sediment transport?",
+    "output": "Structures like seawalls and ports alter natural sediment flows, often leading to erosion in adjacent areas and sediment accumulation elsewhere."
+  },
+  {
+    "input": "Evaluate the impact of ballast water discharge on marine species diversity.",
+    "output": "Ballast water introduces non-native species, some of which become invasive, disrupting local food webs and biodiversity."
+  },
+  {
+    "input": "What are the main contributors to coastal hypoxia in semi-enclosed seas like the Bohai?",
+    "output": "Eutrophication from nutrient loading, stratification, and insufficient water exchange are primary causes of hypoxia in these areas."
+  },
+  {
+    "input": "How is marine environmental data used in maritime safety?",
+    "output": "Data on waves, currents, and visibility support navigation routing, port operations, and emergency response planning."
+  },
+  {
+    "input": "What steps are needed to achieve integrated coastal zone management in China?",
+    "output": "Steps include stakeholder coordination, legal integration, capacity building, and continuous ecological monitoring."
+  },
+  {
+    "input": "What types of marine renewable energy are feasible in the East China Sea?",
+    "output": "Feasible sources include offshore wind, tidal stream energy, and wave energy, depending on location and environmental constraints."
+  },
+  {
+    "input": "Analyze the ecological impact of floating solar farms on aquaculture ponds.",
+    "output": "Floating panels can reduce evaporation and algae growth, but may affect dissolved oxygen and temperature regimes."
+  },
+  {
+    "input": "What is the significance of marine functional zoning in resource management?",
+    "output": "Functional zoning designates areas for specific uses (e.g., fishing, tourism, conservation), promoting orderly and sustainable marine development."
+  },
+  {
+    "input": "Evaluate the progress of blue carbon projects in China’s coastal regions.",
+    "output": "Blue carbon efforts focus on mangroves and saltmarshes, with pilot projects underway, though standardization and scaling remain challenges."
+  },
+  {
+    "input": "What are the drivers of ocean acidification in marginal seas like the East China Sea?",
+    "output": "Drivers include atmospheric CO₂ absorption, nutrient pollution enhancing respiration, and reduced buffering capacity of riverine input."
+  },
+  {
+    "input": "Can remote sensing detect illegal fishing activity?",
+    "output": "Yes, satellite imagery and AIS data can identify vessel clusters, track movements, and detect fishing in restricted zones."
+  },
+  {
+    "input": "Assess the effectiveness of seasonal fishing bans in stock recovery.",
+    "output": "Seasonal bans help protect spawning fish, contributing to stock replenishment, but effectiveness depends on enforcement and timing."
+  },
+  {
+    "input": "What are the common ecological risks of deep-sea mining?",
+    "output": "Risks include habitat destruction, sediment plumes, and disruption of unknown deep-sea biodiversity."
+  },
+  {
+    "input": "How do marine ranches contribute to sustainable fisheries?",
+    "output": "Marine ranches restore habitats, restock depleted populations, and regulate fishing through managed areas and artificial reefs."
+  },
+  {
+    "input": "Evaluate the role of ocean currents in larval transport of commercial fish species.",
+    "output": "Currents influence larval drift, affecting recruitment success and population connectivity across spawning and nursery grounds."
+  },
+  {
+    "input": "What are the challenges in applying ecosystem-based management in Chinese coastal waters?",
+    "output": "Challenges include limited data, overlapping jurisdictions, lack of integrated assessment frameworks, and stakeholder conflicts."
+  },
+  {
+    "input": "What role do artificial reefs play in restoring marine biodiversity?",
+    "output": "Artificial reefs provide substrate for colonization, create refuge habitats, and enhance local fish diversity and abundance."
+  },
+  {
+    "input": "How can climate modeling improve long-term marine spatial planning?",
+    "output": "Climate models inform sea level projections, habitat shifts, and storm intensity, helping design resilient marine zones."
+  },
+  {
+    "input": "What is the role of citizen science in marine environmental monitoring?",
+    "output": "Citizen observations enhance data collection, raise awareness, and support community engagement in ocean protection."
+  },
+  {
+    "input": "Analyze the main causes of decline in China's shellfish aquaculture.",
+    "output": "Disease outbreaks, water pollution, and climate-driven temperature stress are major contributors to declining shellfish production."
+  },
+  {
+    "input": "What are the transboundary marine governance issues in the South China Sea?",
+    "output": "Issues include overlapping claims, resource disputes, and lack of unified environmental management frameworks."
+  },
+  {
+    "input": "Can underwater cultural heritage sites be preserved during offshore development?",
+    "output": "Yes, with proper archaeological surveys, impact assessments, and development avoidance or mitigation strategies."
+  },
+  {
+    "input": "How does sand mining affect coastal erosion?",
+    "output": "Removing sand from riverbeds and nearshore zones disrupts sediment supply, accelerating beach erosion and habitat loss."
+  },
+  {
+    "input": "What are the key performance indicators for evaluating marine ecological restoration projects?",
+    "output": "Indicators include biodiversity recovery, habitat area increase, water quality improvement, and ecological function metrics."
+  },
+
+  {
+    "input": "Analyze the impact of invasive species on native fish populations in the East China Sea.",
+    "output": "Invasive species like the silver-cheeked toadfish compete with native fish for resources and can introduce diseases, leading to declines in native population abundance and diversity."
+  },
+  {
+    "input": "What are the main drivers of submarine sediment instability near coastal construction sites?",
+    "output": "Drivers include altered hydrodynamics from dredging, vibrations from pile driving, and removal of stabilizing sediments, increasing landslide risk."
+  },
+  {
+    "input": "Evaluate the effectiveness of marine debris cleanup programs in the Yellow Sea.",
+    "output": "Cleanup programs reduce visible debris along shorelines, but persistent microplastics and lack of source control limit long‑term effectiveness."
+  },
+  {
+    "input": "Analyze the role of sea ice meltwater in altering ocean stratification in polar margins.",
+    "output": "Meltwater forms a low‑density surface layer, strengthening stratification, reducing vertical mixing, and impacting nutrient supply to surface waters."
+  },
+  {
+    "input": "What policies are needed to manage marine noise pollution from shipping?",
+    "output": "Policies should include vessel speed limits, quieting technologies mandates, designated low‑noise corridors, and real‑time monitoring."
+  },
+  {
+    "input": "Assess the contribution of estuarine wetlands to coastal carbon budgets.",
+    "output": "Estuarine wetlands sequester carbon at rates up to 250 g C/m²/yr, acting as significant blue carbon sinks in coastal budgets."
+  },
+  {
+    "input": "Analyze how coastal desalination plants affect local salinity and marine biota.",
+    "output": "Brine discharge raises nearshore salinity, stressing osmoregulation in marine organisms and potentially altering community composition."
+  },
+  {
+    "input": "Evaluate shoreline retreat rates using historical satellite imagery in the Bohai Sea.",
+    "output": "Shoreline retreat averages 1.2 m/yr over the past decade, driven by land subsidence and reduced sediment supply."
+  },
+  {
+    "input": "What techniques improve the monitoring of harmful algal blooms in turbid estuaries?",
+    "output": "Combining high‑frequency in‑situ sensors with drone‑based hyperspectral imaging enhances bloom detection in turbid waters."
+  },
+  {
+    "input": "Analyze the effects of ocean acidification on shell formation in bivalves.",
+    "output": "Lower pH reduces carbonate ion availability, slowing shell calcification rates and resulting in thinner, more fragile shells."
+  },
+  {
+    "input": "What are the ecological benefits of restoring oyster reefs in coastal zones?",
+    "output": "Oyster reefs improve water clarity via filtration, offer habitat for fish and invertebrates, and buffer shorelines against erosion."
+  },
+  {
+    "input": "Assess the role of artificial intelligence in predicting tsunami inundation.",
+    "output": "AI models trained on bathymetry and historical wave data can rapidly forecast inundation extents with high spatial accuracy."
+  },
+  {
+    "input": "Analyze the influence of seasonal monsoons on sediment transport in estuarine channels.",
+    "output": "Summer monsoons intensify river discharge and sediment load, while winter monsoons enhance seaward sediment export under strong winds."
+  },
+  {
+    "input": "Evaluate the sustainability of sand dredging for beach nourishment.",
+    "output": "Beach nourishment can mitigate erosion temporarily, but unsustainable dredging rates deplete offshore deposits and damage benthic habitats."
+  },
+  {
+    "input": "What measures enhance resilience of coastal infrastructure to sea level rise?",
+    "output": "Measures include elevating structures, restoring natural buffers, implementing managed retreat, and upgrading drainage systems."
+  },
+  {
+    "input": "Analyze changes in phytoplankton community composition under nutrient enrichment.",
+    "output": "Nutrient enrichment favors fast‑growing diatoms, leading to bloom shifts from coccolithophores to diatom‑dominated assemblages."
+  },
+  {
+    "input": "What are the challenges in mapping sub‑sea permafrost thawing zones?",
+    "output": "Challenges include sparse in‑situ measurements, complex geophysical signals, and difficulty distinguishing thawed sediments from gas‑charged layers."
+  },
+  {
+    "input": "Assess the economic impacts of declining fish stocks on coastal communities.",
+    "output": "Declining stocks reduce catch volumes and incomes, force fleet downsizing, and can drive outmigration from fishing villages."
+  },
+  {
+    "input": "Analyze the role of microplastics as vectors for persistent organic pollutants.",
+    "output": "Microplastics adsorb hydrophobic pollutants, transporting them through food webs and potentially increasing bioaccumulation in organisms."
+  },
+  {
+    "input": "What are best practices for environmental impact assessments of offshore energy projects?",
+    "output": "Best practices include baseline ecological surveys, cumulative impact analysis, stakeholder engagement, and adaptive monitoring programs."
+  },
+  {
+    "input": "Evaluate the importance of intertidal mudflats for migratory shorebirds.",
+    "output": "Mudflats provide critical feeding grounds rich in invertebrates, supporting shorebird energy needs during migration stop‑overs."
+  },
+  {
+    "input": "Analyze the effects of bottom trawling on seafloor habitat complexity.",
+    "output": "Bottom trawling flattens benthic structures, reduces biodiversity, and diminishes habitat niches essential for many marine species."
+  },
+  {
+    "input": "What techniques optimize the detection of undersea archaeological sites?",
+    "output": "Multibeam sonar, sub‑bottom profiling, and underwater LiDAR, combined with diver surveys, improve site detection and mapping."
+  },
+  {
+    "input": "Assess the risks of harmful methane hydrate destabilization under warming scenarios.",
+    "output": "Warming-induced hydrate dissociation can release methane, potentially exacerbating greenhouse warming and altering seafloor stability."
+  },
+  {
+    "input": "Analyze the role of marine genetic resources in biotechnology development.",
+    "output": "Marine organisms provide novel enzymes and bioactive compounds used in pharmaceuticals, industry, and environmental remediation."
+  },
+  {
+    "input": "Evaluate how coastal wetlands mitigate nutrient runoff from agriculture.",
+    "output": "Wetlands trap and denitrify agricultural runoff, reducing nitrogen loads by up to 70% before entering adjacent coastal waters."
+  },
+  {
+    "input": "What are the benefits and challenges of offshore aquaculture cages?",
+    "output": "Benefits include higher yields and lower disease risk; challenges involve cage maintenance, predator interactions, and waste management."
+  },
+  {
+    "input": "Analyze the spatiotemporal dynamics of jellyfish blooms in relation to water temperature.",
+    "output": "Warmer temperatures accelerate jellyfish life cycles, leading to earlier and more intense bloom events in summer months."
+  },
+  {
+    "input": "What policies support equitable access to marine resources for small‑scale fishers?",
+    "output": "Policies include community quotas, co‑management arrangements, microcredit programs, and legal recognition of customary fishing rights."
+  },
+  {
+    "input": "Assess the effectiveness of mangrove restoration in coastal carbon offset programs.",
+    "output": "Restored mangroves sequester carbon at rates comparable to natural forests after initial establishment, supporting offset goals."
+  },
+  {
+    "input": "Analyze the implications of deep-sea mining on benthic biodiversity hotspots.",
+    "output": "Mining activities threaten rare species in biodiversity hotspots, with slow recovery rates and unknown ecosystem service losses."
+  },
+  {
+    "input": "What factors influence the retention time of pollutants in estuarine systems?",
+    "output": "Factors include estuary geometry, tidal amplitude, freshwater inflow, and particle settling velocities."
+  },
+  {
+    "input": "Evaluate real‑time monitoring approaches for harmful algal bloom toxins.",
+    "output": "Biosensor arrays and automated in‑situ fluorometers provide rapid toxin detection, reducing reliance on lab assays."
+  },
+  {
+    "input": "Analyze the role of wave energy converters in a mixed renewable grid.",
+    "output": "Wave converters complement wind and solar by providing predictable base‑load power, enhancing grid stability."
+  },
+  {
+    "input": "What methods improve accuracy of ocean floor mapping in turbid waters?",
+    "output": "Techniques include multibeam echo sounders with chirp signals, sub‑bottom profilers, and machine‑learning noise filtering."
+  },
+  {
+    "input": "Assess the role of tidal marshes in attenuation of storm surge.",
+    "output": "Tidal marshes dissipate wave energy through vegetation drag, reducing surge heights by up to 20% over marsh lengths."
+  },
+  {
+    "input": "Analyze the drivers of hypoxia formation in summer stratified seas.",
+    "output": "Drivers include high nutrient inputs, strong stratification preventing oxygen replenishment, and elevated microbial respiration."
+  },
+  {
+    "input": "What strategies mitigate conflict between shipping lanes and marine wildlife corridors?",
+    "output": "Strategies include rerouting vessels, seasonal speed restrictions, real‑time animal tracking, and designated marine protected areas."
+  },
+  {
+    "input": "Evaluate the use of unmanned surface vehicles for coastal surveillance.",
+    "output": "USVs provide persistent monitoring with lower costs than crewed vessels, but face challenges in autonomy and communications."
+  },
+  {
+    "input": "Analyze the benefits of integrated coastal zone management for disaster resilience.",
+    "output": "Integration aligns land‑sea planning, enhances natural defenses, and improves coordination among agencies during disasters."
+  },
+  {
+    "input": "What are the ecological risks of floating litter accumulation in ocean gyres?",
+    "output": "Accumulations create toxicity hotspots, entangle wildlife, and facilitate invasive species transport across ocean basins."
+  },
+  {
+    "input": "Assess the impact of underwater noise on cetacean communication.",
+    "output": "Elevated noise levels mask cetacean calls, forcing changes in call intensity, frequency, and communication range."
+  },
+  {
+    "input": "Analyze how seafloor mapping informs submarine cable routing decisions.",
+    "output": "Detailed bathymetry identifies stable seabed zones avoiding steep slopes, geohazards, and sensitive habitats for cable placement."
+  },
+  {
+    "input": "What monitoring is required to ensure sustainable sand extraction offshore?",
+    "output": "Monitoring should include seabed change detection, sediment transport modeling, and ecological impact assessments."
+  },
+  {
+    "input": "Evaluate the role of sea surface microlayer in air–sea gas exchange.",
+    "output": "The microlayer alters surface tension and can either enhance or inhibit gas exchange depending on organic film properties."
+  },
+  {
+    "input": "Analyze population connectivity of reef fish using genetic markers.",
+    "output": "Genetic analyses reveal high connectivity among nearby reefs but limited gene flow across deeper channels acting as barriers."
+  }
+
+
+
+]

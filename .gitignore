@@ -1,0 +1,23 @@
+auditReports
+Evaluation/unsloth_compiled_cache
+Gpt oss 20B/unsloth_compiled_cache
+LLaMA-3.2-3B-Instruct/outputs
+LLaMA-3.2-3B-Instruct/finetuned_model
+LLaMA-3.2-3B-Instruct/unsloth_compiled_cache
+LLaMA-3.2-11B-Vision-Instruct/llama3_oceanbench_lora
+LLaMA-3.2-11B-Vision-Instruct/unsloth_compiled_cache
+Phi-4/phi4_oceanbench_lora
+Phi-4/unsloth_compiled_cache
+Qwen3-14B/qwen3_14b_oceanbench_lora
+Qwen3-14B/trainer_output
+Qwen3-14B/unsloth_compiled_cache
+Qwen3-32B/qwen3_32b_oceanbench_lora
+Qwen3-32B/trainer_output
+Qwen3-32B/unsloth_compiled_cache
+TCPD_QH.tsv
+Gpt oss 20B
+
+*.safetensors      
+*.pt               
+*.bin
+*.pth

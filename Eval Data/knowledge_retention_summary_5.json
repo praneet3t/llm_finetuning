@@ -1,0 +1,32 @@
+[
+  {
+    "model": "Qwen3-14B",
+    "EM_base": 0.0,
+    "EM_tuned": 0.0,
+    "Retention_%": 0.0
+  },
+  {
+    "model": "Qwen3-32B",
+    "EM_base": 0.0,
+    "EM_tuned": 0.0,
+    "Retention_%": 0.0
+  },
+  {
+    "model": "Phi-4",
+    "EM_base": 0.0,
+    "EM_tuned": 0.0,
+    "Retention_%": 0.0
+  },
+  {
+    "model": "Llama-3.2-11B-Vision-Instruct",
+    "EM_base": 0.0,
+    "EM_tuned": 0.0,
+    "Retention_%": 0.0
+  },
+  {
+    "model": "Llama-3.2-3B-Instruct",
+    "EM_base": 0.0,
+    "EM_tuned": 20.0,
+    "Retention_%": 0.0
+  }
+]
